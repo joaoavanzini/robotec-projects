@@ -2,7 +2,7 @@
 
 Provavelmente você já ouviu falar em mecanismos que fazem de tudo um pouco (algo bem futurista), mas, já estamos vivendo esta época, onde tudo é algo programável e comandado. Esta fechadura, não passa de um simples programa editável. Suas funcionalidades são: abrir e fechar uma tranca, mostrar temperatura do ambiente, luminosidade do ambiente, horário e dizer um simples bem-vindo.  Algumas horas de “coding” já chegamos a nosso resultado, que, não é tão simples quanto possamos imaginar. 
 
-# Componentes:
+## Componentes:
 | Quantidade | Componente |
 | ---------- | ---------- | 
 | 1 | Arduino Uno |
@@ -17,14 +17,14 @@ Provavelmente você já ouviu falar em mecanismos que fazem de tudo um pouco (al
 | 3 | Resistores 10kΩ |
 | 1 | Potenciômetro de 10k (ou 100k) |
 
-# Imagem / Ideia:
+## Imagem / Ideia:
 
 ![Esquemático](https://github.com/vicpb/robotec-projects/blob/master/int_lock_assist/Fechadura-eletronica.jpeg)
 
-# Vídeo:
+## Vídeo:
 [Clique aqui](https://youtu.be/csXSZ7oqHQA)
 
-# Código: 
+## Código: 
 
 ```
 /***************************************\ 
