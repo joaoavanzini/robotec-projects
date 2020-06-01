@@ -16,6 +16,9 @@ Sabe aqueles jogos que você usa apenas os botões direcionais (setinhas para ci
 
 ![Esquemático](https://github.com/vicpb/robotec-projects/blob/master/controlling_car_keyboard/Circuito.png)
 
+## Vídeo:
+[Clique aqui](https://youtu.be/REqQu_t6Y6U)
+
 ## Código: 
 
 ```
