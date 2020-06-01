@@ -2,11 +2,13 @@
 Projeto estacionamento controlado por Arduíno Uno. Neste projeto, a ideia principal seria criar um estacionamento automatizado, onde mostra o dinheiro a ser pago, abre e fecha a cancela. Um projeto simples, porém bem legal a quem inicia neste mundo de microcontroladores.
 
 ## Componentes:
-1 – Arduino Uno
-1 – Servo Motor
-2 – Potenciômetros de 10k (ou 100k)
-1 – Tela lcd 16×2 caracteres
-∞ – Jumpers
+
+| Quantidade | Componente |
+| 1 | Arduino Uno |
+| 1 | Servo Motor |
+| 2 | Potenciômetros de 10k (ou 100k) |
+| 1 | Tela lcd 16×2 caracteres |
+| ∞ | Jumpers |
 
 ## Vídeos:
 [1º Vídeo](https://youtu.be/EeewydyNeo0)
