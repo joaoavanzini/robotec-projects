@@ -21,7 +21,6 @@ Primeiramente, vamos aos itens necessários:
 **               Robotec               ** 
 *            robotecweb.com.br          * 
 *                                       *
-*                                       *
 *               UsinaInfo               *
 *            usinainfo.com.br           *
 *                                       *
@@ -113,4 +112,4 @@ void loop()
 
 ## Imagem do esquema: 
 
-![Esquemático](https://github.com/vicpb/robotec-projects/blob/master/rfid_lcd_v02/Sistema-de-fechadura-eletrica-com-RFID-ligacoes.jpg)
+![Esquemático](https://github.com/vicpb/robotec-projects/blob/master/rfid_servo_v02/Sistema-de-fechadura-eletrica-com-RFID-ligacoes.jpg)
