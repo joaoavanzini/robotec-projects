@@ -6,32 +6,32 @@ João Victor Barbosa (creator of  Robotec): – “Foi ai que concordei, pois pr
 
 Uma versão “beta” já está disponível para a compra do código. O código vem com um “kit” inicial, onde temos oque precisamos para a “cabeça” do projeto
 
-![Kit Inicial](https://raw.githubusercontent.com/vicpb/robotec-projects/AgroRover01.png)
+![Kit Inicial](https://github.com/vicpb/robotec-projects/blob/master/agrorover/AgroRover01.png)
 
 Ao executar o arquivo principal, temos um menu.
 
-![Menu](https://raw.githubusercontent.com/vicpb/robotec-projects/agrorover/AgroRover02.png)
+![Menu](https://github.com/vicpb/robotec-projects/blob/master/agrorover/AgroRover02.png)
 
 A primeira opção é como usar / uma ajuda além do README.
 
 A segunda opção diz a respeito do desenvolvimento do caminho do Rover. Ele andará sozinho, e suas coordenadas de objetos é dada pelo seu HC-SR04 (sensor ultrassônico), desviando e escolhendo o melhor caminho.
 
-![Detecção do melhor caminho](https://raw.githubusercontent.com/vicpb/robotec-projects/agrorover/AgroRover03.png)
+![Detecção do melhor caminho](https://github.com/vicpb/robotec-projects/blob/master/agrorover/AgroRover03.png)
 
 Na terceira opção podemos “desenhar” um caminho, onde ele irá seguir. Sua precisão será baseada ao torque do motor, rodas, velocidade e peso. Para este “desenho”, você deverá modificar o código, dizendo se ele irá para frente, para trás, esquerda, ou direita.
 
-![“Desenho” do caminho](https://raw.githubusercontent.com/vicpb/robotec-projects/agrorover/AgroRover04.png)
+![“Desenho” do caminho](https://github.com/vicpb/robotec-projects/blob/master/agrorover/AgroRover04.png)
 
 Para a ultima opção, resolvi criar uma área onde podemos ver aquilo que o Rover vê. Daqui algumas atualizações, teremos a opção de fazer stream pelo navegador; sendo assim, visualizando em real-time.
 
 Quando selecionamos esta opção, é feito uma foto, desta foto é salva em uma galeria (em “Pictures” – pasta do kit inicial); esta mesma foto é salva no apache2, nos possibilitando a opção de ver direto no navegador.
 
-![Pictures](https://raw.githubusercontent.com/vicpb/robotec-projects/agrorover/AgroRover05.png)
+![Pictures](https://github.com/vicpb/robotec-projects/blob/master/agrorover/AgroRover05.png)
 
 Para a visualização das fotos, basta acessar o ip correspondente ao AgroRover em sua rede de internet, e acessar a pasta “Pictures”, mostrando então todas as fotos retiradas até o momento.
 
-![Foto visualizada através do navegador](https://raw.githubusercontent.com/vicpb/robotec-projects/agrorover/AgroRover06.png)
+![Foto visualizada através do navegador](https://github.com/vicpb/robotec-projects/blob/master/agrorover/AgroRover06.png)
 
-![AgroRover](https://raw.githubusercontent.com/vicpb/robotec-projects/agrorover/Rover.png)
+![AgroRover](https://github.com/vicpb/robotec-projects/blob/master/agrorover/Rover.png)
 
 Assim que possível, farei um vídeo sobre. Estamos em versão “beta”, então várias coisas, alem do código poderá ser mudadas: visual do Rover, altura, peso, etc. Deixarei vocês o máximo possível atualizados.
