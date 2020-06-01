@@ -13,7 +13,7 @@ Basicamente neste projeto, sua ideia principal é de ajudar pessoas com deficiê
 
 ## Imagem / Ideia:
 
-![Esquemático](https://github.com/vicpb/robotec-projects/blob/master/walking_stick/esquematico.png)
+![Esquemático](https://github.com/vicpb/robotec-projects/blob/master/walking_stick/esquematico.jpg)
 
 (De acordo com está imagem, você devera trocar os leds por 1 buzzer. Ligação simples, liguei o negativo no negativo e o positivo no positivo.)
 
