@@ -2,6 +2,8 @@
 
 Um livro totalmente revolucionário, cheio de imagens e muito assunto; uma ideia principal no qual abrange conteúdo do canal, programação, linux e um pouco sobre microcomputadores. Recomendo fortemente a quem pretende entrar nesse mundo de robótica, por isso irei disponibilizar gratuitamente para todos.
 
+![Livro](https://github.com/vicpb/robotec-projects/blob/master/book_robotics_rasp_linux/Livro-Robotec-Aprendendo-robótica-com-Arduino-Raspberry-shields-braço-robotico-e-linux-2-675x1024.jpg) 
+
 - Páginas: 53;
 - Autor: João Victor Barbosa;
 
