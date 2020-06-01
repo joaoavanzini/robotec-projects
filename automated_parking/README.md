@@ -4,6 +4,7 @@ Projeto estacionamento controlado por Arduíno Uno. Neste projeto, a ideia princ
 ## Componentes:
 
 | Quantidade | Componente |
+| ---------- | ---------- | 
 | 1 | Arduino Uno |
 | 1 | Servo Motor |
 | 2 | Potenciômetros de 10k (ou 100k) |
